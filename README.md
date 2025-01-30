@@ -1,5 +1,5 @@
 # Project 1
-Due 2/6 (automatic one week extension)
+Due 2/11 (automatic one week extension)
 
 Please make sure you have github desktop downloaded and installed unless you are very sure about your git abilities. 
 
